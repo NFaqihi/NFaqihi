@@ -5,7 +5,7 @@
 - <b> SQL  </b>
   - [This portfolio project demonstrates my skills in using various SQL queries including but not limited to JOIN, CTE, TEMPTABLE, SUBQUERY, PARTITION BY, ALIASING, AGGREGATE FUNCTIONS, etc.](https://github.com/NFaqihi/SQL-PortfolioProject)
 - <b>Excel </b>
-  - [Pivot Tables and Dashboard](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [This portfolio project demonstrates my skills in using data cleaning methods in Excel as well as using formulas, creating interactive pivot tables and preparing dynamic dashboards for data presentations.](https://github.com/NFaqihi/Excel-Portfolio/tree/main) 
 
 <br/>
 <h2> Connect with me:</h2>
