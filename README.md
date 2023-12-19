@@ -2,10 +2,10 @@
 
 <br/><h2> Data Analysis Projects :</h2>
 
-- <b> SQL (Data quary) </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Excel (Pivot Tables and Dashboard) </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> SQL  </b>
+  - [This portfolio project demonstrates my skills in using various SQL queries including but not limited to JOIN, CTE, TEMPTABLE, SUBQUERY, PARTITION BY, ALIASING, AGGREGATE FUNCTIONS, etc.](https://github.com/NFaqihi/SQL-PortfolioProject)
+- <b>Excel </b>
+  - [(Pivot Tables and Dashboard)](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 <br/>
 <h2> Connect with me:</h2>
