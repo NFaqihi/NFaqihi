@@ -1,4 +1,4 @@
-<h1> Nafiseh Faghihi <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Psychology Researcher and Communicator</a>
+<h1> Nafiseh Faghihi <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,<br/> <a href="https://www.linkedin.com/in/joshmadakor/">Psychology Researcher and Communicator</a>
 
 <h2> Data Analysis Projects :</h2>
 
