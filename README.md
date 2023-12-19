@@ -1,21 +1,19 @@
-<h1> Nafiseh Faghihi <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,<br/> <a href="https://www.linkedin.com/in/joshmadakor/">Psychology Researcher and Communicator</a>
+<h1> Hi! <br/><br/>I'm Nafiseh Faghihi <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>,<br/> <a href="https://www.linkedin.com/in/joshmadakor/">Psychology Researcher and Communicator</a> <br/> <br/> nafisehfaqihi@gmail.com 
 
-<h2> Data Analysis Projects :</h2>
+<br/><h2> Data Analysis Projects :</h2>
 
 - <b> SQL (Data quary) </b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Excel (Pivot Tables and Dashboard) </b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 
-
+<br/>
 <h2> Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNw1tCfPqow6ovQeWGcxR-Uv6O4z1gTOAgpw&usqp=CAU"/>][Email]
 
 
 [linkedin]: https://linkedin.com/in/nafisehfaghihi 
-[Email]: nafisehfaqihi@gmail.com
 
 
 <!--
